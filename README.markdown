@@ -40,7 +40,6 @@ python -m pycurl your_file_url
 
 - Initial release.
 - Upload to GitHub.
-- Getting re-acquainted with the Python eco system.
 
 ## NOTE :scroll:
 
