@@ -26,6 +26,14 @@ To use *Py Curl* on your own system with your own projects, run the following co
 python -m pip install git+https://github.com/angeldollface/pycurl
 ```
 
+### USING *PY CURL* TO DOWNLOAD A FILE
+
+To download a file, simply run this command (Here `your_file_url` represents a URL to a file.):
+
+```bash
+python -m pycurl your_file_url
+```
+
 ## CHANGELOG :black_nib:
 
 ### Version 1.0.0
