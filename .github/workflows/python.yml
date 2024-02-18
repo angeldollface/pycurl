@@ -18,5 +18,5 @@ jobs:
           python -m pip install git+https://github.com/angeldollface/pycurl
       - name: Trying to download a file.
         run: |
-          python -m pycurl https://angeldollface.art/assets/css/main/index.css && ls
+          python -m pycurl https://angeldollface.boo/assets/css/main/index.css && ls
           
